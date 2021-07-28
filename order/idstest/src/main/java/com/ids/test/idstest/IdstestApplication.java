@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IdstestApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(IdstestApplication.class, args);
+        System.out.println("release1");
     }
 
 }
