@@ -10,6 +10,7 @@ public class IdstestApplication {
 
         SpringApplication.run(IdstestApplication.class, args);
         System.out.println("release1");
+        System.out.println("TEST");
     }
 
 }
