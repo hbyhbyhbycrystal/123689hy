@@ -13,6 +13,7 @@ public class IdstestApplication {
         System.out.println("release1合并代码");
         System.out.println("TEST");
         System.out.println("push success");
+        System.out.println("1");
     }
 
 }
