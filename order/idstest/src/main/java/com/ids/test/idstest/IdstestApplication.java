@@ -14,6 +14,7 @@ public class IdstestApplication {
         System.out.println("TEST");
         System.out.println("push success");
         System.out.println("1");
+        System.out.println("2");
     }
 
 }
